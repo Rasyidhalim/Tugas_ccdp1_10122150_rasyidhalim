@@ -5,7 +5,7 @@ package com.proyek;
  * Kelas ini menyediakan metode untuk menambah, mengurangi,
  * mengali, dan membagi dua bilangan bulat.
  *
- * @author NamaAnda (ganti dengan nama Anda)
+ * @acid
  * @version 1.0
  * @since 2025-10-24
  */
